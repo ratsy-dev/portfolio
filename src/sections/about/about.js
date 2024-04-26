@@ -1,5 +1,4 @@
 import AboutImage from "../../assets/about.jpg";
-import CV from "../../assets/cv.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/card";
@@ -26,21 +25,18 @@ const About = () => {
       ))}
      </div>
      <p>
-      Building projects my clients love have always been my passion. Being in
-      the web development industry for over 3 years and serving more than 70
-      happy clients worldwide, I'm always motivated to do more!
+      Building projects has always been my passion. Being in the web development
+      industry for over 3 years and serving my client in New Zealand, I'm always
+      motivated to do more!
      </p>
      <p>
-      Hi, my name is Hajia Bintu from Accra, Ghana. I'm a full-stack web
-      developer with a Bachelors degree in Computer Science. My top priority is
-      to get your business online the right way, giving you industry-standard
-      design and all the functionality you need to operate smoothly online. Get
-      in touch today with the details of your project let's get started! Check
-      out my resume below!
+      Hi, my name is Raghav Nayak from Mumbai, Maharashtra. I'm a full-stack web
+      developer with a Bachelors degree in Computer Applications (BCA). My top
+      priority is to get your business online the right way, giving you
+      industry-standard design and all the functionality you need to operate
+      smoothly online. Get in touch today with the details of your project let's
+      get started!
      </p>
-     <a href={CV} download className="btn primary">
-      Download CV <HiDownload />
-     </a>
     </div>
    </div>
   </section>
