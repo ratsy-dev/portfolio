@@ -2,102 +2,48 @@ import Image1 from "../../assets/project1.jpg";
 import Image2 from "../../assets/project2.jpg";
 import Image3 from "../../assets/project3.jpg";
 import Image4 from "../../assets/project4.jpg";
-import Image5 from "../../assets/project5.jpg";
-import Image6 from "../../assets/project6.jpg";
-import Image7 from "../../assets/project7.jpg";
-import Image8 from "../../assets/project8.jpg";
-import Image9 from "../../assets/project9.jpg";
 
 const data = [
  {
   id: 1,
-  category: "uiux",
+  category: "full stack project",
   image: Image1,
-  title: "Project Title One (UIUX)",
+  title: "POS Web Application",
   desc:
-   "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  demo: "http://egatortutorials.com",
-  github: "https://github.com/egattor",
+   "The Principality of Cogito (POS) webapp gives you the ability to register and run your company as a fully location independent company. This means that you can run your business from anywhere in the world, connect with a network of individuals and businesses in the Cogito Metaverse and enjoy the benefits of simple taxes, low bureaucracy, and simple international banking.!",
+  demo: "https://www.principalityofcogito.com/",
+  github: "https://github.com/raghav-cogito",
  },
  {
   id: 2,
-  category: "frontend",
+  category: "full stack project",
   image: Image2,
-  title: "Project Title Two (Frontend)",
+  title: "Fintech Web Application",
   desc:
-   "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  demo: "http://egatortutorials.com",
-  github: "https://github.com/egattor",
+   "The Principality of Cogito has created the Cogito Metaverse which is a revolutionary digital realm. The metaverse is often associated with the future of the Internet, known as Web 3.0, where ownership and control of information are distributed among the people who use it, rather than being centralised in the hands of a few platforms like Google or Facebook. The vision for the Cogito Metaverse is to create a virtual space where people can connect with each other socially, engage in business activities, communicate, and learn. It aims to break traditional borders and be accessible to citizens from all around the world, fostering a global community.",
+  demo: "https://app.principalityofcogito.com/",
+  github: "https://github.com/raghav-cogito",
  },
  {
   id: 3,
-  category: "frontend",
+  category: "Mobile Application",
   image: Image3,
-  title: "Project Title Three (Frontend)",
+  title: "POS Mobile Application",
   desc:
-   "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  demo: "http://egatortutorials.com",
-  github: "https://github.com/egattor",
+   "The Principality of Cogito has created the Cogito Metaverse which is a revolutionary digital realm. The metaverse is often associated with the future of the Internet, known as Web 3.0, where ownership and control of information are distributed among the people who use it, rather than being centralised in the hands of a few platforms like Google or Facebook. The vision for the Cogito Metaverse is to create a virtual space where people can connect with each other socially, engage in business activities, communicate, and learn. It aims to break traditional borders and be accessible to citizens from all around the world, fostering a global community.",
+  demo: "https://play.google.com/store/apps/details?id=com.cogitoapp",
+  github: "https://github.com/raghav-cogito",
  },
  {
   id: 4,
-  category: "uiux",
+  category: "Mobile Application",
   image: Image4,
-  title: "Project Title Four (UIUX)",
+  title: "Cogito Metaverse Mobile App",
   desc:
-   "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  demo: "http://egatortutorials.com",
-  github: "https://github.com/egattor",
- },
- {
-  id: 5,
-  category: "uiux",
-  image: Image5,
-  title: "Project Title Five (UIUX)",
-  desc:
-   "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-  demo: "http://egatortutorials.com",
-  github: "https://github.com/egattor",
- },
- {
-  id: 6,
-  category: "frontend",
-  image: Image6,
-  title: "Project Title Six (Frontend)",
-  desc:
-   "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  demo: "http://egatortutorials.com",
-  github: "https://github.com/egattor",
- },
- {
-  id: 7,
-  category: "frontend",
-  image: Image7,
-  title: "Project Title Seven (Frontend)",
-  desc:
-   "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  demo: "http://egatortutorials.com",
-  github: "https://github.com/egattor",
- },
- {
-  id: 8,
-  category: "backend",
-  image: Image8,
-  title: "Project Title Eight (Backend)",
-  desc:
-   "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  demo: "http://egatortutorials.com",
-  github: "https://github.com/egattor",
- },
- {
-  id: 9,
-  category: "frontend",
-  image: Image9,
-  title: "Project Title Nine (Frontend)",
-  desc:
-   "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  demo: "http://egatortutorials.com",
-  github: "https://github.com/egattor",
+   "The Principality of Cogito has created the Cogito Metaverse which is a revolutionary digital realm. The metaverse is often associated with the future of the Internet, known as Web 3.0, where ownership and control of information are distributed among the people who use it, rather than being centralised in the hands of a few platforms like Google or Facebook. The vision for the Cogito Metaverse is to create a virtual space where people can connect with each other socially, engage in business activities, communicate, and learn. It aims to break traditional borders and be accessible to citizens from all around the world, fostering a global community",
+  demo:
+   "https://play.google.com/store/search?q=cogito%20metaverse&c=apps&hl=en_IN&gl=US",
+  github: "https://github.com/raghav-cogito",
  },
 ];
 
