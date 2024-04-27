@@ -26,8 +26,8 @@ const About = () => {
      </div>
      <p>
       Building projects has always been my passion. Being in the web development
-      industry for over 3 years and serving my client in New Zealand, I'm always
-      motivated to do more!
+      industry for over 3 years and working with my client in New Zealand, I'm
+      always motivated to do more!
      </p>
      <p>
       Hi, my name is Raghav Nayak from Mumbai, Maharashtra. I'm a full-stack web

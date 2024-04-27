@@ -9,7 +9,7 @@ const data = [
   id: 2,
   question: "How long will my project take to complete?",
   answer:
-   "This depends on the complexity of the project, your available, and your payment. Once you have this sorted out, I will give you a completion date.",
+   "This depends on the complexity of the project, your availability, and your payment. Once you have this sorted out, I will give you a completion date.",
  },
  {
   id: 5,
@@ -27,13 +27,13 @@ const data = [
   id: 3,
   question: "What's your payment plan?",
   answer:
-   "Payment is divided into 3. An initial 30% upfront payment to get me started once all the details of the projec is set, 40% once the project is completed, and 30% once the project is delivered.",
+   "Payment is divided into 3. An initial 30% upfront payment to get me started once all the details of the project is set, 40% once the project is completed, and 30% once the project is delivered.",
  },
  {
   id: 6,
   question: "What if the project doesn't turn out good?",
   answer:
-   "You will be a part of the process from the start. You will know how the whole project is going until the end. And I will make sure to give you the best.",
+   "You will be part of the process from the start. You will know how the whole project is going until the end. And I will make sure to give you the best.",
  },
 ];
 

@@ -19,8 +19,8 @@ const Header = () => {
     <h3 data-aos="fade-up">Raghav Nayak</h3>
     <p data-aos="fade-up">
      Hey! I'm a full stack developer based in Mumbai, Maharashtra, India. I have
-     3+ years of experience in creating interactive things with code that run
-     across different platform and devices.
+     3+ years of experience in creating interactive applications with code that
+     run across different platform and devices.
     </p>
     <div className="header__cta" data-aos="fade-up">
      <a href="#contact" className="btn primary">
