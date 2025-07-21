@@ -1,5 +1,4 @@
 import AboutImage from "../../assets/about.jpg";
-import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/card";
 import "./about.css";
@@ -10,7 +9,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__left">
           <div className="about__portrait">
-            <img src={AboutImage} alt="About Image" />
+            <img src={AboutImage} />
           </div>
         </div>
         <div className="about__right">
